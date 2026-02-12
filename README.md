@@ -5,6 +5,22 @@ This project serves as a learning environment, documentation reference, and prof
 
 ---
 
+## Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Infrastructure Components](#-infrastructure-components)
+  - [Windows Environment](#windows-environment)
+  - [Linux Environment](#linux-environment)
+  - [Networking](#networking)
+- [Repository Structure](#-repository-structure)
+- [Learning Objectives](#-learning-objectives)
+- [Documentation Style](#-documentation-style)
+- [Future Enhancements](#-future-enhancements)
+- [License](#-license)
+- [Author](#-author)
+
+---
+
 ## 🌐 Project Overview
 
 This lab replicates a hybrid Windows–Linux infrastructure commonly found in enterprise networks.  
@@ -148,5 +164,5 @@ Feel free to fork, modify, and build upon it.
 
 ## 🙌 Author
 
-Created by **Worku**  
+Created by **Worku Janka Negawo**  
 System Administration | Windows | Linux | Networking | Virtualization
